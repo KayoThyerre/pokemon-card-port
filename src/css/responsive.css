@@ -1,0 +1,32 @@
+@media(max-width: 620px) {
+    .pokemon-slider {
+        padding: 0 15px;
+        gap: 10px;
+    }
+
+    .btn {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .poke-list {
+        height: 500px;
+    }
+
+    .card .img-container {
+        max-height: 230px;
+    }
+
+    .card .info .title {
+        max-width: 50%;
+        font-size: 15px;
+    }
+
+    .card .info .hp {
+        font-size: 12px;
+    }
+}
