@@ -12,7 +12,7 @@ Projeto feito para testar minhas habilidades em HTML CSS JAVASCRIPT.
 
 # Link do GitHUB pages
 
-> [CLIQUE AQUI](https://kayothyerre.github.io/landing-page-port-1/#)
+> [CLIQUE AQUI](https://kayothyerre.github.io/pokemon-card-port/)
 
 # Modo de uso
 
